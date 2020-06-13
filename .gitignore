@@ -1,3 +1,6 @@
 /datasets/dataRnn/glove*
 /datasets/audio/XY_dev/*
 /datasets/audio/XY_train/*
+/models/*.h5
+/*.h5
+
