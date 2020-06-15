@@ -3,4 +3,4 @@
 /datasets/audio/XY_train/*
 /models/*.h5
 /*.h5
-
+/images/*.mp4
