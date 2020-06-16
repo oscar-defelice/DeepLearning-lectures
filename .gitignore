@@ -1,6 +1,9 @@
 /datasets/dataRnn/glove*
 /datasets/audio/XY_dev/*
 /datasets/audio/XY_train/*
+/datasets/bike_data/*
 /models/*.h5
 /*.h5
 /images/*.mp4
+/bike_data/*
+/*.zip
