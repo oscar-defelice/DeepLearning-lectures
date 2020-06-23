@@ -2,8 +2,11 @@
 /datasets/audio/XY_dev/*
 /datasets/audio/XY_train/*
 /datasets/bike_data/*
+/datasets/models/*
 /models/*.h5
+/models/*.weights
 /*.h5
 /images/*.mp4
 /bike_data/*
 /*.zip
+/*.tar.gz
