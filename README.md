@@ -5,5 +5,5 @@ This is somehow a sequel of the other module on [Statistical Learning](https://g
 
 ### Buy me a coffee
 
-If you like these lectures, consider to buy me a coffee!
+If you like these lectures, consider to buy [me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice)!
 
