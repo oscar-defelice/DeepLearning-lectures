@@ -10,3 +10,5 @@
 /bike_data/*
 /*.zip
 /*.tar.gz
+__pycache__
+.ipynb_checkpoints/**
