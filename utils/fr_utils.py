@@ -5,10 +5,10 @@ import numpy as np
 import os
 import cv2
 from numpy import genfromtxt
-from keras.layers import Conv2D, ZeroPadding2D, Activation, Input, concatenate
-from keras.models import Model
-from keras.layers.normalization import BatchNormalization
-from keras.layers.pooling import MaxPooling2D, AveragePooling2D
+from tensorflow.keras.layers import Conv2D, ZeroPadding2D, Activation, Input, concatenate
+from tensorflow.keras.models import Model
+from tensorflow.keras.layers import BatchNormalization
+from tensorflow.keras.layers import MaxPooling2D, AveragePooling2D
 import h5py
 import matplotlib.pyplot as plt
 
@@ -141,7 +141,7 @@ def load_weights_from_FaceNet(FRmodel):
 
 def load_weights():
     # Set weights path
-    dirPath = 'datasets/FaceRec/weights'
+    dirPath = './weights'
     fileNames = filter(lambda f: not f.startswith('.'), os.listdir(dirPath))
     paths = {}
     weights_dict = {}
@@ -173,11 +173,11 @@ def load_weights():
 
 
 def load_dataset():
-    train_dataset = h5py.File('datasets/FaceRec/models/train_happy.h5', "r")
+    train_dataset = h5py.File('datasets/train_happy.h5', "r")
     train_set_x_orig = np.array(train_dataset["train_set_x"][:]) # your train set features
     train_set_y_orig = np.array(train_dataset["train_set_y"][:]) # your train set labels
 
-    test_dataset = h5py.File('datasets/FaceRec/models/test_happy.h5', "r")
+    test_dataset = h5py.File('datasets/test_happy.h5', "r")
     test_set_x_orig = np.array(test_dataset["test_set_x"][:]) # your test set features
     test_set_y_orig = np.array(test_dataset["test_set_y"][:]) # your test set labels
 
