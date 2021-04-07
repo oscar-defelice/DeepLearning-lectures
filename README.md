@@ -14,6 +14,12 @@ pip install -r requirements.txt
 ```
 This installs all the packages the code in this repository needs.
 
+## Interact with notebooks
+
+You can use _Binder_, to interact with notebooks and play with the code and the exercises.
+
+<a href = https://mybinder.org/v2/gh/oscar-defelice/DeepLearning-lectures/HEAD> <img align="center" src="https://mybinder.org/badge_logo.svg"> </a>
+
 ### Buy me a coffee
 
 If you like these lectures, consider to buy [me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice)!
