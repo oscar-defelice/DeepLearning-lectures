@@ -7,7 +7,7 @@ from tensorflow.keras.layers import Conv2D, ZeroPadding2D, Activation, Input, co
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import BatchNormalization
 from tensorflow.keras.layers import MaxPooling2D, AveragePooling2D
-import fr_utils
+from utils import fr_utils
 from tensorflow.keras.layers import Lambda, Flatten, Dense
 
 def inception_block_1a(X):

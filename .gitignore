@@ -5,6 +5,7 @@
 /datasets/models/*
 /models/*.h5
 /models/*.weights
+/models/*weights
 /*.h5
 /images/*.mp4
 /bike_data/*
