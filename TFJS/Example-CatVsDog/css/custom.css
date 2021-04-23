@@ -1,0 +1,20 @@
+.heading {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.button-row {
+    padding-top: 20px;
+}
+
+#loader {
+    position: fixed;
+    left: 46%;
+    top: 35%;
+    text-align: center;
+    z-index: 9999;
+}
+
+#classifier {
+    display: none;
+}

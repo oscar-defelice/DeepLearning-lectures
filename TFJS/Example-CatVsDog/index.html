@@ -1,0 +1,45 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Cat vs Dog Classifier</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+  </head>
+  <body>
+    <main role="main" class="container">
+      <div id="loader">
+        <div class="spinner-grow" role="status" style="width: 12rem; height: 12rem;">
+          <span class="sr-only">Loading...</span>
+        </div>
+        <p>Loading trained model...</p>
+      </div>
+      <div id="classifier">
+        <div class="heading">
+          <h1>Cat vs Dog Image Classifier</h1>
+          <p class="lead">The <i>Cat vs Dog Classifier</i> is a deep learning model that was built with Keras and then exported to be used in the browser by Tensorflow.js in the browser to classify pictures of dogs and cats.</p>
+          <p class="lead">If you upload junk images... it won't work.</p>
+        </div>
+        <div class="row">
+          <div class="col-sm">
+              <img id="img" src="img/dog.jpeg" width=375 height=375 />
+          </div>
+        </div>
+        <div class="row">
+            <div class="col-sm button-row">
+              <label class="btn btn-primary" for="my-file-selector">
+                  <input id="my-file-selector" type="file" class="d-none" onchange="changeImage()" accept="image/jpeg, image/png">
+                  Upload New Picture
+              </label>
+              <label class="btn btn-primary class-b" for="predict">
+                  <input id="predict" type="button" class="d-none" >
+                  Predict
+              </label>
+            </div>
+        </div>
+      </div>
+    </main>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
