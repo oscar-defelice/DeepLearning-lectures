@@ -13,8 +13,8 @@ pip install tensorflowjs
 
 ### Cat-vs-Dog classifier
 The first example we build is a classic in computer vision: **cat-vs-dog classifier**.
-1. [We use a notebook to train the model](https://github.com/oscar-defelice/DeepLearning-lectures/TFJS/Example-CatVsDog/TFJS-trainModel.ipynb)
-2. [We build a webapp to deploy our model](https://github.com/oscar-defelice/DeepLearning-lectures/TFJS/Example-CatVsDog/index.html).
+1. [We use a notebook to train the model](https://github.com/oscar-defelice/DeepLearning-lectures/blob/master/TFJS/Example-CatVsDog/TFJS-trainModel.ipynb)
+2. [We build a webapp to deploy our model](https://github.com/oscar-defelice/DeepLearning-lectures/blob/master/TFJS/Example-CatVsDog/index.html).
 
 ### Rock-Paper-Scissors game
 Another example is the famous Rock-Paper-Scissor game, that is in principle very similar, but now we fine-tune the model directly in JavaScript and we train with live images from webcam.
