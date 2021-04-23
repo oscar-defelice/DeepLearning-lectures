@@ -18,6 +18,7 @@ The first example we build is a classic in computer vision: **cat-vs-dog classif
 
 ### Rock-Paper-Scissors game
 Another example is the famous Rock-Paper-Scissor game, that is in principle very similar, but now we fine-tune the model directly in JavaScript and we train with live images from webcam.
+
 ![image](https://user-images.githubusercontent.com/49638680/115159438-60d2da80-a093-11eb-806d-7f0c2374a74f.png)
 
 ### Bonus I
@@ -32,4 +33,4 @@ You can play PacMan with your webcam!
 
 ![image](https://user-images.githubusercontent.com/49638680/115876770-02b54700-a447-11eb-869b-6a0ce8978585.png)
 
-### [🕹️ Enjoy!](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html) 
+### [🕹️ Enjoy!](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
