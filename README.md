@@ -25,3 +25,7 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
 ### Buy me a coffee
 
 If you like these lectures, consider to buy [me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice)!
+
+<p align="center">
+<img src="images/breakfast.gif"> 
+</p>
