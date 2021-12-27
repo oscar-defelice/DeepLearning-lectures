@@ -6,8 +6,9 @@
 /models/*.h5
 /models/*.weights
 /models/*weights
+models/model_data/variables
 /*.h5
-/images/*.mp4
+/images/*/*.mp4
 /bike_data/*
 /*.zip
 /*.tar.gz
