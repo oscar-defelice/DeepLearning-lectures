@@ -6,6 +6,7 @@
 /models/*.h5
 /models/*.weights
 /models/*weights
+/models/keras*
 models/model_data/variables
 /*.h5
 /images/*/*.mp4
