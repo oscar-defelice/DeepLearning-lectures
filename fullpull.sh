@@ -12,7 +12,7 @@ Help()
    echo -e "\033[1mThis script performs the pull of lectures overwriting \033[0m"
    echo -e "\033[1mthe local content. \033[0m"
    echo
-   echo -e "\033[1mSyntax\033[0m: ./fullpull [h] [options]"
+   echo -e "\033[1mSyntax\033[0m: sh fullpull.sh -[h] [options]"
    echo
 #   echo -e "\033[1margument\033[0m:"
 #   echo "username  the Twitter username"
