@@ -15,11 +15,10 @@ Help()
    echo -e "\033[1mSyntax\033[0m: sh fullpull.sh -[h] [options]"
    echo
 #   echo -e "\033[1margument\033[0m:"
-#   echo "username  the Twitter username"
+#   echo "argument1  the first argument"
    echo -e "\033[1moptions\033[0m:"
    echo "h         print this help."
-#   echo "n         the maximum number of tweets to download"
-#   echo "o         the output file path and name"
+#   echo "n         another option"
 }
 
 while getopts ":h" option;
