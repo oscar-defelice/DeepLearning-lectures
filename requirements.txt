@@ -15,5 +15,5 @@ tensorflow-probability==0.12.1
 emoji==1.2.0
 pydub==0.25.1
 ffmpeg==1.4
-opencv-python==4.5.1.48
+opencv-contrib-python==4.5.5.62
 prompt-toolkit==3.0.2
