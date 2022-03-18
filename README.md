@@ -1,7 +1,13 @@
 # DeepLearning-lectures
 Here is the material for a course of two-weeks I will be giving in a Master of Data Science and AI
 
-This is somehow a sequel of the other module on [Statistical Learning](https://github.com/oscar-defelice/ML-lectures).
+This is part of a series of other lectures modules on
+
+1. [Introduction to Data Science](https://github.com/oscar-defelice/DSAcademy-lectures) 🧮
+2. [Statistical Learning](https://github.com/oscar-defelice/ML-lectures) 📈
+3. [Time Series](https://github.com/oscar-defelice/TimeSeries-lectures) ⌛
+4. [Computer Vision Hands-On](https://github.com/oscar-defelice/Computer-Vision-Hands-on) 🕶️
+
 
 ## Install requirements
 As usual, it is advisable to create a virtual environment to isolate dependencies.
