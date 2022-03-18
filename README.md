@@ -34,7 +34,7 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
 
 <a href="https://oscar-defelice.github.io/" target="_blank" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
 
-I am a theoretical physicist, a passioned programmer and an AI curious.
+I am a theoretical physicist, a passionate programmer and an AI curious.
 
 I write medium articles (with very little amount of regularity), you can read them [here](https://oscar-defelice.medium.com/).
 I also have a [github profile](https://github.com/oscar-defelice) where I store my personal open-source projects.
@@ -51,5 +51,5 @@ I also have a [github profile](https://github.com/oscar-defelice) where I store 
 If you like these lectures, consider to buy [me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice)!
 
 <p align="center">
-  <a href="https://github.com/sponsors/oscar-defelice"><img src="/images/breakfast.gif"></a>
+  <a href="https://github.com/sponsors/oscar-defelice"><img src="https://github.com/oscar-defelice/DeepLearning-lectures/blob/master/images/breakfast.gif?raw=true"></a>
 </p>
