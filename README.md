@@ -34,7 +34,7 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
 
  Alternatively, you can work on these notebooks in another online workspace called [Deepnote](https://www.deepnote.com/). This allows you to play around with the code and access the assignments from your browser. 
  <p align="center">
-  <a href = "https://beta.deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com/oscar-defelice/DeepLearning-lectures"> <img height="25" src="https://deepnote.com/buttons/launch-in-deepnote-small.svg"> </a>
+  <a href = "https://beta.deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com/oscar-defelice/DeepLearning-lectures"> <img height="20" src="https://deepnote.com/buttons/launch-in-deepnote-small.svg"> </a>
 </p>
 
 ---
