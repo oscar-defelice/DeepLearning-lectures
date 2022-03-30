@@ -3,10 +3,10 @@ Here is the material for a course of two-weeks I will be giving in a Master of D
 
 This is part of a series of other lectures modules on
 
-1. [Introduction to Data Science](https://github.com/oscar-defelice/DSAcademy-lectures) 🧮
-2. [Statistical Learning](https://github.com/oscar-defelice/ML-lectures) 📈
-3. [Time Series](https://github.com/oscar-defelice/TimeSeries-lectures) ⌛
-4. [Computer Vision Hands-On](https://github.com/oscar-defelice/Computer-Vision-Hands-on) 🕶️
+1. [Introduction to Data Science](https://oscar-defelice.github.io/DSAcademy-lectures) 🧮
+2. [Statistical Learning](https://oscar-defelice.github.io/ML-lectures) 📈
+3. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
+4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 🕶️
 
 
 ## Install requirements
@@ -22,11 +22,21 @@ This installs all the packages the code in this repository needs.
 
 ## Interact with notebooks
 
+### Binder 
+
 You can use _Binder_, to interact with notebooks and play with the code and the exercises.
 
 <p align="center">
 <a href = "https://mybinder.org/v2/gh/oscar-defelice/DeepLearning-lectures/HEAD?urlpath=lab"> <img src="https://mybinder.org/badge_logo.svg"> </a>
 </p>
+
+### DeepNote
+
+ Alternatively, you can work on these notebooks in another online workspace called [Deepnote](https://www.deepnote.com/). This allows you to play around with the code and access the assignments from your browser. 
+ <p align="center">
+  <a href = "https://beta.deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com/oscar-defelice/DeepLearning-lectures"> <img height="25" src="https://deepnote.com/buttons/launch-in-deepnote-small.svg"> </a>
+</p>
+
 ---
 
 ### Your lecturer 👨‍🏫
