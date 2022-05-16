@@ -56,6 +56,15 @@ I also have a [github profile](https://github.com/oscar-defelice) where I store 
 [![Twitter Badge](https://img.shields.io/badge/-@OscardeFelice-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oscardefelice)](https://twitter.com/OscardeFelice)
 [![Linkedin Badge](https://img.shields.io/badge/-oscardefelice-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oscar-de-felice-5ab72383/)](https://linkedin.com/in/oscar-de-felice-5ab72383/)
 
+#### Questions
+
+<p align="center">
+  <img width="1269" alt="image" src="https://user-images.githubusercontent.com/49638680/167115562-1a780ea9-16d4-408b-a500-cd6ad740983d.png">
+</p>
+
+If you have any question, doubt or if you find mistakes, please open an issue or drop me an [email](mailto:oscar.defelice@gmail.com).
+
+
 #### Buy me a coffee ☕️
 
 If you like these lectures, consider to buy [me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice)!
