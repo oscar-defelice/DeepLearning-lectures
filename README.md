@@ -18,11 +18,23 @@ Once the virtual environment has been set up, one has to run the following instr
 ```bash
 pip install -r requirements.txt
 ```
+
+This installs all the packages the code in this repository needs.
+
+### Mac M1 processors
+
+For new Apple M1 processor, there is a different requirement file.
+So set the virtual environment and then the command to execute is
+
+```bash
+pip install -r requirements-macm1.txt
+```
+
 This installs all the packages the code in this repository needs.
 
 ## Interact with notebooks
 
-### Binder 
+### Binder
 
 You can use _Binder_, to interact with notebooks and play with the code and the exercises.
 
