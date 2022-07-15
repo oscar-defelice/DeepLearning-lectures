@@ -11,6 +11,13 @@ This is part of a series of other lectures modules on
 3. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
 4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 🕶️
 
+---
+
+<p align="center">
+    <img width="699" alt="image" src="https://user-images.githubusercontent.com/49638680/159042792-8510fbd1-c4ac-4a48-8320-bc6c1a49cdae.png">
+</p>
+
+---
 
 ## Install requirements
 As usual, it is advisable to create a virtual environment to isolate dependencies.
