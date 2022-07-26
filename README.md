@@ -33,7 +33,7 @@ This installs all the packages the code in this repository needs.
 
 ### Mac M1 processors
 
-For new Apple M1 processor, there is a different requirement file.
+For new Apple M1 processors, there is a different requirement file.
 So set the virtual environment and then the command to execute is
 
 ```bash
