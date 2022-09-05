@@ -19,6 +19,12 @@ This is part of a series of other lectures modules on
 
 ---
 
+## [Content of lectures](https://oscar-defelice.github.io/DeepLearning-lectures/src)
+
+You can find the list of the arguments and some relevant material [here](https://oscar-defelice.github.io/DeepLearning-lectures/src).
+
+---
+
 ## Install requirements
 As usual, it is advisable to create a virtual environment to isolate dependencies.
 One can follow [this guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) and the suitable section according to the OS.
@@ -77,12 +83,6 @@ make
 
 The Makefile will take care of building and executing the docker image.
 Then a jupyter server will be running at [http://localhost/8888](http://localhost/8888).
-
----
-
-## [Content of lectures](https://oscar-defelice.github.io/DeepLearning-lectures/src)
-
-You can find the list of the arguments and some relevant material [here](https://oscar-defelice.github.io/DeepLearning-lectures/src).
 
 ---
 
