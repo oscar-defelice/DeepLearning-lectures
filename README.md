@@ -59,6 +59,25 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
   <a href = "https://beta.deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com/oscar-defelice/DeepLearning-lectures"> <img height="20" src="https://deepnote.com/buttons/launch-in-deepnote-small.svg"> </a>
 </p>
 
+## Run lectures in a Docker container
+
+<p align="center">
+  <img height="170" src="https://korben.info/app/uploads/2020/06/docker.png">
+</p>
+
+Another option to run all these lectures locally is to build the corresponding Docker Image.
+A nice introduction to Docker containers can be found [here](https://www.youtube.com/watch?v=JprTjTViaEA).
+
+We tried to modularise everything to make all the building and execution procedure as simple as possible.
+To run a jupyter environment with all dependencies installed and notebooks ready to be executed it is sufficient to open your favourite terminal and run
+
+```bash
+make
+```
+
+The Makefile will take care of building and executing the docker image.
+Then a jupyter server will be running at http://localhost/8888
+
 ---
 
 ### Your lecturer 👨‍🏫
