@@ -54,8 +54,8 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
 
 ### DeepNote
 
- Alternatively, you can work on these notebooks in another online workspace called [Deepnote](https://www.deepnote.com/). This allows you to play around with the code and access the assignments from your browser.
- <p align="center">
+Alternatively, you can work on these notebooks in another online workspace called [Deepnote](https://www.deepnote.com/). This allows you to play around with the code and access the assignments from your browser.
+<p align="center">
   <a href = "https://beta.deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com/oscar-defelice/DeepLearning-lectures"> <img height="20" src="https://deepnote.com/buttons/launch-in-deepnote-small.svg"> </a>
 </p>
 
@@ -76,12 +76,18 @@ make
 ```
 
 The Makefile will take care of building and executing the docker image.
-Then a jupyter server will be running at [http://localhost/8888](http://localhost/8888)
+Then a jupyter server will be running at [http://localhost/8888](http://localhost/8888).
 
 ---
 
-### Your lecturer 👨‍🏫
-#### [Oscar de Felice](https://oscar-defelice.github.io/)
+## [Content of lectures](https://oscar-defelice.github.io/DeepLearning-lectures/src)
+
+You can find the list of the arguments and some relevant material [here](https://oscar-defelice.github.io/DeepLearning-lectures/src).
+
+---
+
+## Your lecturer 👨‍🏫
+### [Oscar de Felice](https://oscar-defelice.github.io/)
 
 <a href="https://oscar-defelice.github.io/" target="_blank" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
 
