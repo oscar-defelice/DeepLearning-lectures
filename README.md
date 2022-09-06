@@ -118,7 +118,7 @@ If you have any question, doubt or if you find mistakes, please open an issue or
 If you like these lectures, consider to buy [me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice)!
 
 <p align="center">
-  <a href="https://github.com/sponsors/oscar-defelice"><img src="https://github.com/oscar-defelice/DeepLearning-lectures/blob/master/images/breakfast.gif?raw=true"></a>
+  <a href="https://github.com/sponsors/oscar-defelice"><img src="https://raw.githubusercontent.com/oscar-defelice/DeepLearning-lectures/master/src/images/breakfast.gif"></a>
 </p>
 
 ---
