@@ -7,7 +7,7 @@ on:
     branches: [ "master" ]
 
 env:
-  AWS_REGION: ${{ secrets.MY_AWS_REGION }}                  # set this to your preferred AWS region, e.g. us-west-1
+  AWS_REGION: "eu-west-1"              # set this to your preferred AWS region, e.g. us-west-1
   ECR_REPOSITORY: ${{ secrets.MY_ECR_REPOSITORY }}          # set this to your Amazon ECR repository name
   ECR_REGISTRY: ${{ secrets.MY_ECR_REGISTRY }}              # set this to your Amazon ECR registry address
 
@@ -29,7 +29,7 @@ jobs:
       uses: aws-actions/configure-aws-credentials@v1
       with:
         role-to-assume: ${{ secrets.ARN_ACCESS }}
-        aws-region: ${{ secrets.MY_AWS_REGION }}
+        aws-region: ${{ env.AWS_REGION }}
 
     - name: Login to Amazon ECR
       id: login-ecr
