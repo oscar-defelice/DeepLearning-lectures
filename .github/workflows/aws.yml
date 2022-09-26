@@ -6,11 +6,6 @@ on:
   push:
     branches: [ "master" ]
 
-env:
-  AWS_REGION: ${{ secrets.MY_AWS_REGION }}            # set this to your preferred AWS region, e.g. us-west-1
-  ECR_REPOSITORY: ${{ secrets.MY_ECR_REPOSITORY }}          # set this to your Amazon ECR repository name
-  ECR_REGISTRY: ${{ secrets.MY_ECR_REGISTRY }}              # set this to your Amazon ECR registry address
-
 permissions:
       id-token: write
       contents: read
@@ -26,6 +21,10 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Configure AWS credentials
+      env:
+        AWS_REGION: ${{ secrets.MY_AWS_REGION }}            # set this to your preferred AWS region, e.g. us-west-1
+        ECR_REPOSITORY: ${{ secrets.MY_ECR_REPOSITORY }}          # set this to your Amazon ECR repository name
+        ECR_REGISTRY: ${{ secrets.MY_ECR_REGISTRY }}              # set this to your Amazon ECR registry address
       uses: aws-actions/configure-aws-credentials@v1
       with:
         role-to-assume: ${{ secrets.ARN_ACCESS }}
