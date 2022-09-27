@@ -23,6 +23,10 @@ This is part of a series of other lectures modules on
 
 You can find the list of the arguments and some relevant material [here](https://oscar-defelice.github.io/DeepLearning-lectures/src).
 
+<p align="center">
+  <img width="700" src="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/04/Spider-Man-School-Bus.jpg">
+</p>
+
 ---
 
 ## Install requirements
