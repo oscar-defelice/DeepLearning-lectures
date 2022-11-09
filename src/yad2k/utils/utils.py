@@ -89,7 +89,7 @@ def draw_boxes(image, boxes, box_classes, class_names, scores=None):
     #image = Image.fromarray(np.floor(image * 255 + 0.5).astype('uint8'))
 
     font = ImageFont.truetype(
-        font='font/FiraMono-Medium.otf',
+        font='fonts/FiraMono-Medium.otf',
         size=np.floor(3e-2 * image.size[1] + 0.5).astype('int32'))
     thickness = (image.size[0] + image.size[1]) // 300
 
