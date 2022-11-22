@@ -23,7 +23,7 @@ However, since these lectures are _demanded_ to be on jupyter notebooks, let's s
 
 ## Commandments
 
-1. You will always use notebook responsibly, _i.e._ you never execute a notebook you do not understand jus tto get to the end.
+1. You will always use notebook responsibly, _i.e._ you never execute a notebook you do not understand just to get to the end.
 2. You will always run cells in order, if you need to rerun a previous cell, _always_ restart the kernel.
 3. You will always prefer jupyterlab to jupyter-notebook.
 
