@@ -4,6 +4,10 @@ Here we describe the lecture plan and insert the link to the corresponding mater
 
 ---
 
+## [Meta-Introduction](https://oscar-defelice.github.io/DeepLearning-lectures/src/JupyterTricks.md)
+
+A couple of tricks and advices about jupyter-notebook envirornment.
+
 ## [Introduction](https://github.com/oscar-defelice/DeepLearning-lectures/blob/master/src/01.IntroductionToDeepLearning.ipynb) 🎒
 
 Here we collect the introductory arguments for this course. In this lecture, we review some basic concepts in machine learning, like model construction and logistic regression.
