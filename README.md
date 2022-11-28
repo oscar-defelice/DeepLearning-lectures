@@ -10,6 +10,7 @@ This is part of a series of other lectures modules on
 2. [Statistical Learning](https://oscar-defelice.github.io/ML-lectures) 📈
 3. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
 4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 🕶️
+5. [Recommender Systems](https://oscar-defelice.github.io/Recommender-Systems-Course) 🚀
 
 ---
 
