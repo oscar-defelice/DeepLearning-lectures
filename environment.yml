@@ -1,4 +1,4 @@
 name: deep-learning-lectures
 dependencies:
   - python=3.9
-  - tensorflow=2.9.1
+  - tensorflow=2.9.3
