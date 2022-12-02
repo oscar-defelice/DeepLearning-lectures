@@ -4,7 +4,7 @@ Here we describe the lecture plan and insert the link to the corresponding mater
 
 ---
 
-## [Meta-Introduction](https://oscar-defelice.github.io/DeepLearning-lectures/src/JupyterTricks.md)
+## [Meta-Introduction](JupyterTricks.md)
 
 A couple of tricks and advices about jupyter-notebook envirornment.
 
