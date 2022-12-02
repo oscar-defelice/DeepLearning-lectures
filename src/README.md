@@ -72,7 +72,7 @@ In particular a non-exhaustive list of arguments will include:
 - [Tensorflow JS and how to deploy models](https://github.com/oscar-defelice/DeepLearning-lectures/tree/master/src/TFJS)
 - [Federated Learning and data protection](https://github.com/oscar-defelice/DeepLearning-lectures/blob/master/src/13.Federated_Learning.ipynb)
 
-## [Final project](https://github.com/oscar-defelice/DeepLearning-lectures/blob/master/src/FinalProject.ipynb) 🚧
+## [Final project](https://github.com/oscar-defelice/DeepLearning-lectures/blob/master/src/FinalProject/FinalProject.ipynb) 🚧
 
 The proposed final project is an application of what we have seen in the course of the lectures.
 
