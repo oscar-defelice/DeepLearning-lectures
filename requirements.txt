@@ -10,6 +10,7 @@ graphviz==0.16
 pydot-ng==2.0.0
 imageio==2.9.0
 nltk==3.6.6
+faker==15.3.4
 seaborn==0.11.1
 tensorflow-probability==0.12.1
 emoji==1.2.0
