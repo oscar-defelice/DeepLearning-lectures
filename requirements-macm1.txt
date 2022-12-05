@@ -19,3 +19,4 @@ pydub==0.25.1
 ffmpeg==1.4
 opencv-contrib-python==4.5.5.62
 prompt-toolkit==3.0.2
+tranformers==4.24.0
