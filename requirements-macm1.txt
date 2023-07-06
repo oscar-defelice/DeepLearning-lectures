@@ -2,7 +2,7 @@ pandas==1.2.3
 tensorflow-macos==2.9.2
 tensorflow-metal==0.5.0
 matplotlib==3.4.1
-scipy==1.8.1
+scipy==1.10.0
 scikit-learn==1.1.1
 scikit-image==0.19.3
 pydotplus==2.0.2
