@@ -2,7 +2,7 @@ pandas==1.2.3
 tensorflow==2.11.1
 matplotlib==3.4.1
 scipy==1.10.0
-scikit-learn==0.24.1
+scikit-learn==1.0.1
 scikit-image==0.18.1
 pydotplus==2.0.2
 pydot==1.4.2
