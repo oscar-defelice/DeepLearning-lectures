@@ -3,7 +3,7 @@ tensorflow-macos==2.9.2
 tensorflow-metal==0.5.0
 matplotlib==3.4.1
 scipy==1.10.0
-scikit-learn==1.0.1
+scikit-learn==1.5.0
 scikit-image==0.19.3
 pydotplus==2.0.2
 pydot==1.4.2
