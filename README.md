@@ -2,7 +2,7 @@
 
 # Deep Learning lectures
 
-Here is the material for a course of two-weeks I will be giving in a Master of Data Science and AI
+Here is the material for a course of two-weeks I gave in a Master of Data Science and AI
 
 This is part of a series of other lectures modules on
 
